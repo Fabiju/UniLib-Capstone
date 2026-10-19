@@ -4,9 +4,8 @@ UniLib es una aplicación web de biblioteca universitaria donde los usuarios pue
 
 Este proyecto fue desarrollado como proyecto final del curso de Desarrollo Web en Jala University.
 
-**Demo en vivo:** Agregar enlace de Netlify o Vercel.
-
-**Repositorio:** Agregar enlace de GitHub.
+**Demo en vivo:** https://6ad56e970fdcc0800b3f7080--creative-tapioca-427838.netlify.app/ 
+**Repositorio:** https://github.com/Fabiju/UniLib-Capstone 
 
 ## Funcionalidades
 
@@ -99,7 +98,7 @@ npm test
 
 ## Estructura del proyecto
 
-```text
+```text  
 src/
 ├── components/   Componentes reutilizables
 ├── context/      Manejo del estado global
